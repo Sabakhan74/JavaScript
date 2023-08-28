@@ -1,7 +1,6 @@
 console.log('practice_1')
-
-// console.log('Hello World');
-// console.log('Pakistan Zindabad');
+console.log('Hello World');
+console.log('Pakistan Zindabad');
 
 let message = 'Hello World';
 let message1 = 'Hello World';
