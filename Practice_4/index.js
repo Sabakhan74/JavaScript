@@ -112,7 +112,7 @@ let courseInformation = {
   duration: 6,
   active: true,
 }
-/*
+
 // Object Methods
 const objKeys = Object.keys(courseInformation);
 console.log(objKeys);
@@ -242,4 +242,3 @@ const authUsers2 = users.map((x) => {
   })
   
   console.log(authUsers2);
-*/
